@@ -1,0 +1,28 @@
+texto explicativo sobre orientaçao a objetos 
+dor: aviario, passaro, coordenaçao e alimentaçao 
+
+1 classe aviario  
+representa o local aode os passaros estao 
+tem um atribuimento que é a "lista de passaros" para poder armazenar os passaros no aviario
+e tambem tem uma funçao "adicionar passaros"para poder adicionar mais passsarosa na lista de passaros do aviario
+e tem uma outra funçao que é "tirar passaros" para poder tirar um passaro da lista de passaros do aviario 
+O método "listar os Passaros" exibe os pássaros presentes no aviário.
+
+2 Classe Pássaro
+   A classe Pássaro representa um pássaro específico.
+    Ela possui atributos como "nome", "espécie", "idade", "cor", "tipo  de penas" e "tamanho" para armazenar informações sobre o pássaro.
+    Possui métodos getters e setters para acessar e modificar esses atributos.
+    Também possui um método "voar" que exibe uma mensagem representando o voo do pássaro.
+
+3 Classe Coordenador 
+    A classe Coordenador representa o coordenador do aviário.
+    Ela possui atributos como "nome", "idade" e "cargo" para armazenar informações sobre o coordenador.
+    Possui métodos getters e setters para acessar e modificar esses atributos.
+    Também possui um método "alimentar passaro" que recebe um objeto da classe Pássaro como parâmetro e exibe uma mensagem representando a alimentação do pássaro.
+
+4 Classe Alimentação
+    A classe Alimentação representa a comida fornecida aos pássaros.
+    Ela possui atributos como "tipo de comida", "quantidade" e "horario" para armazenar informações sobre a alimentação.
+    Possui métodos getters e setters para acessar e modificar esses atributos.
+    Também possui um método "exibir informacoes" que exibe as informações sobre a alimentação.
+
