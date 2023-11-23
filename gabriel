@@ -7,7 +7,7 @@ tem um atribuimento que é a "lista de passaros" para poder armazenar os passaro
 e tambem tem uma funçao "adicionar passaros"para poder adicionar mais passsarosa na lista de passaros do aviario
 e tem uma outra funçao que é "tirar passaros" para poder tirar um passaro da lista de passaros do aviario 
 O método "listar os Passaros" exibe os pássaros presentes no aviário.
-
+ 
 2 Classe Pássaro
    A classe Pássaro representa um pássaro específico.
     Ela possui atributos como "nome", "espécie", "idade", "cor", "tipo  de penas" e "tamanho" para armazenar informações sobre o pássaro.
