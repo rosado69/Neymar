@@ -1,0 +1,12 @@
+{
+  "name": "neymar",
+  "version": "1.0.0",
+  "description": "projeto de um controle de estoque ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "gabriel",
+  "license": "MIT"
+}
